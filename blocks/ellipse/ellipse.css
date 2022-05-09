@@ -8,12 +8,6 @@
     z-index: 3; 
 }
 
-@media screen and (max-width: 1500px) {
-    .ellipse {
-        
-    }
-}
-
 @media screen and (max-width: 1000px) {
     .ellipse {
         display: none;
