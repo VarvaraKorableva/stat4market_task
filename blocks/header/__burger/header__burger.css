@@ -1,0 +1,23 @@
+.header__burger {
+    display: none;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .header__burger {
+        display: flex;
+        background-image: url(../../../images/Burger_menu.png);
+        width: 42px;
+        height: 28px;
+        cursor: pointer;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .header__burger {
+        width: 20px;
+    }
+}
+
+

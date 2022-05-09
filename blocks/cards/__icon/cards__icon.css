@@ -1,0 +1,12 @@
+.cards__icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 15px;
+    align-self: left;
+}
+
+@media screen and (max-width: 500px) {
+    .cards__icon {
+    align-self: center;
+    }
+}

@@ -1,0 +1,22 @@
+.product__restangle {
+    background-image: url(../../../images/Rectangle.png);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 261px;
+    height: 7px;
+}
+
+@media screen and (max-width: 1500px) {
+    .product__restangle {
+        width: 218px;
+        height: 6px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .product__restangle {
+        width: 131px;
+        height: 4px;
+    }
+}    

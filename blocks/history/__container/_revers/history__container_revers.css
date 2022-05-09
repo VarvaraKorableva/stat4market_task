@@ -1,0 +1,7 @@
+
+@media screen and (max-width: 600px) {
+    .history__container_revers {
+        flex-direction: column-reverse;
+        margin-top: 40px;
+    }
+}

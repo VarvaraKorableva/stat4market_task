@@ -1,0 +1,39 @@
+.header__button {
+    cursor: pointer;
+    width: 169px;
+    height: 45px;
+    background-color: #CF51CE;
+    border: none;
+    border-radius: 12px;
+    background-image: url(../../../images/buttonInside.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    align-self: center;
+}
+
+@media screen and (max-width: 1500px) {
+    .header__button {
+        width: 152px;
+        height: 44px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .header__button {
+        width: 158px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .header__button {
+        width: 103px;
+        height: 36px;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .header__button {
+        width: 80px;
+        height: 30px;
+    }
+}

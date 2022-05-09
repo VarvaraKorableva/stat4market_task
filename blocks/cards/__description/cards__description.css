@@ -1,0 +1,23 @@
+.cards__description {
+    color: #331A2F;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    text-align: left;
+    margin: 0;
+}
+
+@media screen and (max-width: 1500px) {
+    .cards__description {
+        font-size: 16px;
+        line-height: 25.5px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .cards__description {
+        text-align: center;
+    }
+}
+

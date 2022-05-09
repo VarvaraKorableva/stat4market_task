@@ -1,0 +1,22 @@
+.header__contacts-pic {
+    background-image: url(../../../images/phone.png);
+    width: 18.5px;
+    height: 18.5px;
+    margin-right: 7.5px;
+    align-self: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1500px) {
+    .header__contacts-pic {
+        width: 15.5px;
+        height: 16px;
+        margin-right: 4px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .header__contacts-pic {
+        display: none;
+    }
+}

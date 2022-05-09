@@ -1,0 +1,19 @@
+.history__text-container {
+    max-width: 750px;
+    margin-top: 117px;
+
+}
+
+@media screen and (max-width: 1500px) {
+    .history__text-container {
+        max-width: 582px;
+        margin-top: 65px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .history__text-container {
+        max-width: 425px;
+        margin-top: 64px;
+    }
+}

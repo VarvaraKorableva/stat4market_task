@@ -1,0 +1,33 @@
+.header__menu {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 66px;
+    margin-left: 195px; 
+    margin-right: 195px;
+    max-width: 1497px;
+}
+
+@media screen and (max-width: 1800px) {
+    .header__menu {
+        margin-left: 0px; 
+        margin-right: 0px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .header__menu {
+        margin-bottom: 46px;
+        margin-left: 23px;
+        margin-right: 16px;
+        max-width: 961px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .header__menu {
+        margin-bottom: 40px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+

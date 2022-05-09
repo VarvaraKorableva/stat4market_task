@@ -1,0 +1,28 @@
+.history__illustration-last{
+    width: 471px;
+    height: 474px;
+    margin-left: 83px;
+}
+
+@media screen and (max-width: 1500px) {
+    .history__illustration-last {
+        width: 356px;
+        height: 358px;
+        margin-left: 55px;
+
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .history__illustration-last {
+        width: 270px;
+        height: 270px;
+        margin-left: 40px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .history__illustration-last {
+        margin: auto;
+    }
+}

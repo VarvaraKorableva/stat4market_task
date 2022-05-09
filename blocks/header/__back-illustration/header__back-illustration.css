@@ -1,0 +1,35 @@
+.header__back-illustration {
+    background-image: url(../../../images/Bigstars.svg);
+    width: 620px;
+    height: 563px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 195px;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1880px) {
+    .header__back-illustration {
+        top: 150px;
+        right: 50px;
+    }
+}
+
+@media screen and (max-width: 1700px) {
+    .header__back-illustration {
+        width: 458px;
+        height: 416px;
+        top: 5px;
+        right: 20px;
+        background-image: url(../../../images/Bg\ stars.jpg);
+    }
+}
+
+@media screen and (max-width: 1270px) {
+    .header__back-illustration{
+        display: none;
+        
+    }
+}
+

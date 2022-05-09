@@ -1,0 +1,24 @@
+.header__menu-text {
+    width: 204px;
+    color: #331A2F;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0;
+    align-self: center;
+}
+
+@media screen and (max-width: 1500px) {
+    .header__menu-text {
+        width: 159px;
+        font-size: 10px;
+        line-height: 14px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .header__menu-text {
+        display: none;
+    }
+}

@@ -1,0 +1,9 @@
+.header__price {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 0;
+    align-self: flex-end;
+    color: #331A2F;
+    font-family: 'Lato', sans-serif;
+}

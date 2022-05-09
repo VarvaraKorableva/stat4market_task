@@ -1,0 +1,5 @@
+.header__contacts-container {
+    display: flex;
+    height: 36px;
+    align-self: center;
+}

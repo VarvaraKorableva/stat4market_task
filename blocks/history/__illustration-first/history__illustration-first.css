@@ -1,0 +1,26 @@
+.history__illustration-first {
+    width: 454px;
+    height: 446px;
+    margin-right: 81.5px;
+}
+
+@media screen and (max-width: 1500px) {
+    .history__illustration-first {
+        width: 350.5px;
+        height: 345px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .history__illustration-first {
+        width: 269px;
+        height: 264.5px;
+        margin-right: 41px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .history__illustration-first {
+        margin: auto;
+    }
+}

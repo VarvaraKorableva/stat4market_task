@@ -1,0 +1,9 @@
+.header__price-icon {
+    background-image: url(../../../images/spent.svg);
+    background-repeat: no-repeat;
+    width: 48px;
+    height: 46px;
+    margin-right: 25px;
+    align-self: flex-end;
+    background-size:contain;
+}

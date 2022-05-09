@@ -1,0 +1,64 @@
+@import url(./normalize.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+@import url(../blocks/body/body.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/ellipse/ellipse.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/);
+@import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__span-accent/header__span-accent.css);
+@import url(../blocks/header/__paragraph-container/header__paragraph-container.css);
+@import url(../blocks/header/__trait/header__trait.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__menu-text/header__menu-text.css);
+@import url(../blocks/header/__menu-container/header__menu-container.css);
+@import url(../blocks/header/__menu-logo-container/header__menu-logo-container.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
+@import url(../blocks/header/__burger/header__burger.css);
+@import url(../blocks/header/__contacts/header__contacts.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__navigation-item/_active/header__navigation-item_active.css);
+@import url(../blocks/header/__illustration/header__illustration.css);
+@import url(../blocks/header/__wrapper/header__wrapper.css);
+@import url(../blocks/header/__price-icon/header__price-icon.css);
+@import url(../blocks/header/__price-container/header__price-container.css);
+@import url(../blocks/header/__price/header__price.css);
+@import url(../blocks/header/__paragraph/header__paragraph.css);
+@import url(../blocks/header/__back-illustration/header__back-illustration.css);
+@import url(../blocks/header/__route/header__route.css);
+@import url(../blocks/header/__contacts-pic/header__contacts-pic.css);
+@import url(../blocks/header/__contacts-container/header__contacts-container.css);
+@import url(../blocks/header/__navigation-item/header__navigation-item.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__price/_span-accent/header__price_span-accent.css);
+
+
+@import url(../blocks/history/__title/history__title.css);
+@import url(../blocks/history/__illustration-first/history__illustration-first.css);
+@import url(../blocks/history/__illustration-last/history__illustration-last.css);
+@import url(../blocks/history/__container/history__container.css);
+@import url(../blocks/history/__container/_revers/history__container_revers.css);
+@import url(../blocks/history/__text-container/history__text-container.css);
+@import url(../blocks/history/__text/history__text.css);
+
+
+
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__icon/cards__icon.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__description/cards__description.css);
+
+@import url(../blocks/product/__subtitle/product__subtitle.css);
+@import url(../blocks/product/__title/product__title.css);
+@import url(../blocks/product/product.css);
+@import url(../blocks/product/__restangle/product__restangle.css);
+@import url(../blocks/product/__title/_span-accent/product__title_span-accent.css);
+@import url(../blocks/product/__title-container/product__title-container.css);
+@import url(../blocks/product/__restangle-container/product__restangle-container.css);

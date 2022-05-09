@@ -1,0 +1,17 @@
+.product__restangle-container {
+    position: relative;
+    width: 261px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1500px) {
+.product__restangle-container {
+    width: 218px;
+}
+}
+
+@media screen and (max-width: 500px) {
+.product__restangle-container {
+    width: 131px;
+}
+}    

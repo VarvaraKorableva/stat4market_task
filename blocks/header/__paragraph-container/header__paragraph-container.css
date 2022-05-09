@@ -1,0 +1,21 @@
+.header__paragraph-container {
+    max-width: 868px;
+}
+
+@media screen and (max-width: 1500px) {
+    .header__paragraph-container {
+        max-width: 711px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .header__paragraph-container{
+        max-width: 482px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .header__paragraph-container{
+        max-width: 330px;
+    }
+}

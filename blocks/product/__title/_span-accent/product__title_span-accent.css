@@ -1,0 +1,23 @@
+
+.product__title_span-accent {
+    color: #CF51CE;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700; 
+    font-size: 56px;
+    line-height: 80px;
+}
+
+ @media screen and (max-width: 1500px) {
+    .product__title_span-accent {
+       font-size: 46px;
+       line-height: 65px;
+    }
+ }
+ 
+ @media screen and (max-width: 500px) {
+    .product__title_span-accent {
+       font-size: 26px;
+       line-height: 39px;
+    }
+ }
+ 

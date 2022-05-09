@@ -1,0 +1,24 @@
+.cards__item {
+    display: flex;
+    flex-direction: column;
+    /*width: 290px;*/
+}
+/*
+@media screen and (max-width: 1500px) {
+    .cards__item {
+        width: 225px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .cards__item {
+        width: 255px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .cards__item {
+        width: 260px;
+
+    }
+}*/
