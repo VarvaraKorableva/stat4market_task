@@ -1,6 +1,8 @@
 .page {
     padding-top: 35px;
     padding-bottom: 131px;
+    position: relative;
+    background-color: black;
       
 }
 

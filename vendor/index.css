@@ -2,11 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
-@import url(../blocks/body/body.css);
-
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/ellipse/ellipse.css);
+@import url(../blocks/ellipse-left/ellipse-left.css);
+@import url(../blocks/ellipse-right/ellipse-right.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/);

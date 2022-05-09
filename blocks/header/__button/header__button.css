@@ -9,7 +9,16 @@
     background-repeat: no-repeat;
     background-position: center;
     align-self: center;
+    transition: 0.3s ease;
 }
+
+  .header__button:hover {
+    opacity: 0.5;
+    transition: 0.3s ease;
+  }
+
+
+
 
 @media screen and (max-width: 1500px) {
     .header__button {

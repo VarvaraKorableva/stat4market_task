@@ -1,0 +1,24 @@
+.ellipse-left {
+    background-image: url(../../images/LeftEllipse.svg);
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 3; 
+    width: 94px;
+    height: 468px;
+}
+
+@media screen and (max-width: 1800px) {
+    .ellipse-left {
+        background-image: url(../../images/halfEllipseLeft.svg);
+        width: 35px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .ellipse-left {
+        display: none;
+    }
+}

@@ -1,0 +1,15 @@
+.ellipse-right {
+    background-image: url(../../images/rightHalfEllips.svg);
+    position: absolute;
+    right: 0;
+    top: 380px;
+    width: 42px;
+    height: 739px;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1884px) {
+    .ellipse-right {
+        display: none;
+    }
+}
