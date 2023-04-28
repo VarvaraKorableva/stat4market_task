@@ -1,2 +1,2 @@
-#Работу можно увидеть по ссылке 
-https://varvara-from-moscow.github.io/stat4market_task/
+#Landing for practice in responsive layout
+https://varvarakorableva.github.io/stat4market_task/
